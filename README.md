@@ -4,27 +4,6 @@
 
 This is the process of making my custom keyboard project. This repository also contains the key layout firmware I used, GERBER files for the custom PCB, STL files for the custom case, and a download link to the firmware used (QMK Toolbox).
 
-# List of Parts
-
-- 20x 1N4148 Diode
-
-- 20x SK6812 mini-E RGB LEDs (optional, mine didn't end up working)
-
-- 20x Cherry MX switches
-
-- 2x 220ohm Resistor (optional, only for LEDs)
-
-- 1x Arduino Pro Micro ATmega32U4 5V
-
-- 1x Custom PCB (GERBER file will be provided)
-
-- 20x Mechanical Key Caps
-
-- 1x Custom Designed 3D Case (STL files are provided in this repository)
-
-- 1x USB cable for Arduino (some Arduino Pro Micros have different ports, the one I had is USB-C, but there are others as well)
-
-
 # The start
 
 This project started at the beginning of semester 2. I had originally bought 5 custom circuit boards to build a custom 4x10 keyboard for my school project in my computer engineering class. I only needed 2, the other 3 had just been sitting on my dresser with no purpose, just spare materials. 
