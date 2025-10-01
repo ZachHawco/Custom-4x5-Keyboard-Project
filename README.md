@@ -77,6 +77,6 @@ Now that the keyboard was ready, I hot glued the corners of the switch holder/ci
 
 # Further Improvement and Completion
 
-I'm overall pretty happy with how it all turned out, especially since it was all done on my own. For future improvements, I could possibly do more research and be more careful when soldering the LED pads. I can be more careful by using a smaller solder tip. I also think I could've found a better solution to the connectors. Most of the connectors in the 3D designing software I used weren't meant to be used to be detachable. I could have used screws, which would require some more research as I have never made anything involving screws. 
+I'm overall pretty happy with how it all turned out, especially since it was all done on my own. I was able to make several improvements to make this project much more optimized than my TEJ3M project. For future improvements, I could possibly do more research and be more careful when soldering the LED pads. I can be more careful by using a smaller solder tip. I also think I could've found a better solution to the connectors. Most of the connectors in the 3D designing software I used weren't meant to be used to be detachable. I could have used screws, which would require some more research as I have never made anything involving screws. 
 
 
