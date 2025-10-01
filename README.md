@@ -18,6 +18,21 @@ To start off, I needed some switches. My previous keyboard had used blue switche
 
 <img width="312" height="68" alt="image" src="https://github.com/user-attachments/assets/4d3edc1f-a74b-43a5-8688-b81a15b27c3e" /> <img width="136" height="122" alt="image" src="https://github.com/user-attachments/assets/2316c705-f987-41cd-aa00-d7171133b2cb" /> <img width="172" height="122" alt="image" src="https://github.com/user-attachments/assets/e43f69eb-45ab-422d-9fe5-1de670a2bea0" />
 
+I also purchased an Arduino Pro Micro, the main brain of the keyboard. A big issue I encountered with my TEJ3M keyboard project was a delicate Arduino USB port. I ended up having to purchase 2 Arduino Pro Micros for the school project, the first one's USB port broke off. I tried manually soldering wires to the USB port pads but it wouldn't work. I ended up just buying a new Arduino Pro Micro. I didn't think too much about getting a different kind of Arduino, so I just bought the exact same one. The big issue with the delicate port was that it was a USB Micro port, with little reinforcement. Even while being extremely careful with my new Arduino's port, it was still starting to fall off. To fix this, I simply applied A LOT of hot glue to the port to keep it in one place. Fast forward to the 4x5 keyboard project, I didn't want to use the same USB port, I wanted something stronger. After some research, I determined that USB-C ports were much stronger, I bought 2 Arduino Pro Micro's with USB-C ports for the 4x5 keyboard project, incase one breaks. 
+
+TEJ3M Project and broken Micro USB port
+
+<img width="200" height="75" alt="image" src="https://github.com/user-attachments/assets/e0591583-dfbf-476c-a95f-cee51eaec994" /> <img width="200" height="80" alt="image" src="https://github.com/user-attachments/assets/1dc8d275-3b09-4c8c-9146-36b743a67ad4" />
+
+
+
+
+
+4x5 Keyboard Project (much stronger, have never encountered any problems with it being delicate)
+
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/a10980f8-2104-4ae8-8743-3a3356cb2141" />
+
+
 # 3D Case
 
 For this keyboard, I wanted a much better case than the previous one I designed for my school keyboard project, that one was very messy. The walls were WAY too thick, the hole at the bottom for the Arduino was uncentered with the actual Arduino, the switch holder wasn't very centered with the actual case and the bottom slab to cover the Arduino was hot glued on. The slab being hot clued on caused there to be a bit of room between the slab and the case itself, which looked pretty odd from the outside. 
